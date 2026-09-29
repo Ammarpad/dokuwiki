@@ -3,6 +3,9 @@
 # the files installed
 
 # removed on 2026-09-29
+inc/FeedParserFile.php
+
+# removed on 2026-09-29
 lib/tpl/dokuwiki/images/dokuwiki.svg
 
 # removed on 2026-06-25
